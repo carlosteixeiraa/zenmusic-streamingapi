@@ -9,7 +9,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "exit 1",
-    "start": "node main.js"
+    "start": "node api/main.js"
   },
   "author": "",
   "license": "MIT"
